@@ -1,0 +1,11 @@
+quest{
+  solarus_version = "1.5",
+  write_dir = "alttp",
+  title_bar = "The Legend of Zelda: A Link to the Past",
+--  normal_quest_size = "256x144", -- widescreen
+--  min_quest_size = "256x144", -- widescreen
+--  max_quest_size = "256x144", -- widescreen
+  normal_quest_size = "256x224", -- SNES
+  min_quest_size = "256x224", -- SNES
+  max_quest_size = "256x224", -- SNES
+}

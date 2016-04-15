@@ -1,0 +1,45 @@
+BlockSet:0		Palette:0
+BlockSet:1		Palette:1
+BlockSet:2		Palette:0
+BlockSet:2		Palette:12
+BlockSet:2		Palette:38
+BlockSet:3		Palette:2
+BlockSet:3		Palette:21
+BlockSet:4		Palette:29
+BlockSet:5		Palette:4
+BlockSet:5		Palette:6
+BlockSet:5		Palette:9
+BlockSet:5		Palette:11
+BlockSet:5		Palette:25
+BlockSet:6		Palette:7
+BlockSet:6		Palette:19
+BlockSet:6		Palette:32
+BlockSet:7		Palette:8
+BlockSet:7		Palette:15
+BlockSet:7		Palette:16
+BlockSet:8		Palette:8
+BlockSet:8		Palette:10
+BlockSet:9		Palette:13
+BlockSet:9		Palette:14
+BlockSet:10		Palette:23
+BlockSet:10		Palette:35
+BlockSet:11		Palette:19
+BlockSet:11		Palette:20
+BlockSet:12		Palette:17
+BlockSet:12		Palette:18
+BlockSet:13		Palette:23
+BlockSet:13		Palette:24
+BlockSet:13		Palette:25
+BlockSet:14		Palette:26
+BlockSet:14		Palette:27
+BlockSet:14		Palette:36
+BlockSet:14		Palette:37
+BlockSet:14		Palette:40
+BlockSet:16		Palette:1
+BlockSet:19		Palette:33
+BlockSet:20		Palette:7
+
+255 Rooms total
+132 Entrances?
+
+436 tiles

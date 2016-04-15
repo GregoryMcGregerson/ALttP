@@ -1,0 +1,22 @@
+The Legend of Zelda: A Link to the Past
+Dumped by: Atlas, nensondubois, YK
+ID666 tags by: Datschge, YK
+Downloaded from: http://snesmusic.org/
+
+Update:
+-Twelve new jingles, three ambient tracks, and
+ four song variations added.
+-Tracknames changed; whether they were originally
+ based on the OST or not... they were boring. Order
+ also changed to a more logical in-game style.
+-Timers tweaked.
+
+Update:
+-Track 27 ("Ganon's Message") redumped.
+-ID666 tags fixed. (Uses the full game name now, rather
+ than "LoZ3: Link to the Past".)
+
+Version: v1.3
+New set now using the extended id666 tag format
+	 v1.2
+Replaced 4 songs with SFX-free versions

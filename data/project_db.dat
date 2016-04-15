@@ -1,0 +1,195 @@
+map{ id = "Light/Overworld/00", description = "Area 00 (Lost Woods)" }
+map{ id = "Light/Overworld/02", description = "Area 02 (House of Lumberjacks)" }
+map{ id = "Light/Overworld/03", description = "Area 03 (Death Mountain West)" }
+map{ id = "Light/Overworld/05", description = "Area 05 (Death Mountain East)" }
+map{ id = "Light/Overworld/07", description = "Area 07" }
+map{ id = "Light/Overworld/0A", description = "Area 0A" }
+map{ id = "Light/Overworld/0F", description = "Area 0F" }
+map{ id = "Light/Overworld/10", description = "Area 10" }
+map{ id = "Light/Overworld/11", description = "Area 11" }
+map{ id = "Light/Overworld/12", description = "Area 12" }
+map{ id = "Light/Overworld/13", description = "Area 13" }
+map{ id = "Light/Overworld/14", description = "Area 14" }
+map{ id = "Light/Overworld/15", description = "Area 15" }
+map{ id = "Light/Overworld/16", description = "Area 16" }
+map{ id = "Light/Overworld/17", description = "Area 17" }
+map{ id = "Light/Overworld/18", description = "Area 18 (Kakariko Village)" }
+map{ id = "Light/Overworld/1A", description = "Area 1A" }
+map{ id = "Light/Overworld/1B", description = "Area 1B (Hyrule Castle)" }
+map{ id = "Light/Overworld/1D", description = "Area 1D" }
+map{ id = "Light/Overworld/1E", description = "Area 1E" }
+map{ id = "Light/Overworld/22", description = "Area 22" }
+map{ id = "Light/Overworld/25", description = "Area 25" }
+map{ id = "Light/Overworld/28", description = "Area 28" }
+map{ id = "Light/Overworld/29", description = "Area 29" }
+map{ id = "Light/Overworld/2A", description = "Area 2A" }
+map{ id = "Light/Overworld/2B", description = "Area 2B" }
+map{ id = "Light/Overworld/2C", description = "Area 2C" }
+map{ id = "Light/Overworld/2D", description = "Area 2D" }
+map{ id = "Light/Overworld/2E", description = "Area 2E" }
+map{ id = "Light/Overworld/2F", description = "Area 2F" }
+map{ id = "Light/Overworld/30", description = "Area 30 *" }
+map{ id = "Light/Overworld/32", description = "Area 32" }
+map{ id = "Light/Overworld/33", description = "Area 33" }
+map{ id = "Light/Overworld/34", description = "Area 34" }
+map{ id = "Light/Overworld/35", description = "Area 35 !" }
+map{ id = "Light/Overworld/37", description = "Area 37 !" }
+map{ id = "Light/Overworld/3A", description = "Area 3A" }
+map{ id = "Light/Overworld/3B", description = "Area 3B" }
+map{ id = "Light/Overworld/3C", description = "Area 3C" }
+map{ id = "Light/Overworld/3F", description = "Area 3F" }
+map{ id = "debug", description = "test map" }
+
+tileset{ id = "LightWorld", description = "Overworld Tileset for Light World" }
+
+sprite{ id = "hero/trail", description = "Hero trail" }
+sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
+sprite{ id = "menus/solarus_logo", description = "Menu: Solarus logo" }
+sprite{ id = "temp/Room260", description = "Link's House" }
+sprite{ id = "temp/map/00", description = "Area 00" }
+sprite{ id = "temp/map/02", description = "Area 02" }
+sprite{ id = "temp/map/03", description = "Area 03" }
+sprite{ id = "temp/map/05", description = "Area 05" }
+sprite{ id = "temp/map/07", description = "Area 07" }
+sprite{ id = "temp/map/0A", description = "Area 0A" }
+sprite{ id = "temp/map/0F", description = "Area 0F" }
+sprite{ id = "temp/map/10", description = "Area 10" }
+sprite{ id = "temp/map/11", description = "Area 11" }
+sprite{ id = "temp/map/12", description = "Area 12" }
+sprite{ id = "temp/map/13", description = "Area13" }
+sprite{ id = "temp/map/14", description = "Area 14" }
+sprite{ id = "temp/map/15", description = "Area 15" }
+sprite{ id = "temp/map/16", description = "Area 16" }
+sprite{ id = "temp/map/17", description = "Area 17" }
+sprite{ id = "temp/map/18", description = "Area 18" }
+sprite{ id = "temp/map/1A", description = "Area 1A" }
+sprite{ id = "temp/map/1B", description = "Area 1B" }
+sprite{ id = "temp/map/1D", description = "Area 1D" }
+sprite{ id = "temp/map/1E", description = "Area 1E" }
+sprite{ id = "temp/map/22", description = "Area 22" }
+sprite{ id = "temp/map/25", description = "Area 25" }
+sprite{ id = "temp/map/28", description = "Area 28" }
+sprite{ id = "temp/map/29", description = "Area 29" }
+sprite{ id = "temp/map/2A", description = "Area 2A" }
+sprite{ id = "temp/map/2B", description = "Area 2B" }
+sprite{ id = "temp/map/2C", description = "Area 2C" }
+sprite{ id = "temp/map/2D", description = "Area 2D" }
+sprite{ id = "temp/map/2E", description = "Area 2E" }
+sprite{ id = "temp/map/2F", description = "Area 2F" }
+sprite{ id = "temp/map/30", description = "Area 30" }
+sprite{ id = "temp/map/32", description = "Area 32" }
+sprite{ id = "temp/map/33", description = "Area 33" }
+sprite{ id = "temp/map/34", description = "Area 34" }
+sprite{ id = "temp/map/35", description = "Area 35" }
+sprite{ id = "temp/map/37", description = "Area 37" }
+sprite{ id = "temp/map/3A", description = "Area 3A" }
+sprite{ id = "temp/map/3B", description = "Area 3B" }
+sprite{ id = "temp/map/3C", description = "Area 3C" }
+sprite{ id = "temp/map/3F", description = "Area 3F" }
+
+music{ id = "loz3-01", description = "Title ~ Link to the Past" }
+music{ id = "loz3-02", description = "Beginning of the Journey" }
+music{ id = "loz3-03", description = "Seal of Seven Maidens" }
+music{ id = "loz3-04a", description = "Time of the Falling Rain" }
+music{ id = "loz3-04b", description = "Time of the Falling Rain (Storm)" }
+music{ id = "loz3-05a", description = "Majestic Castle" }
+music{ id = "loz3-05b", description = "Majestic Castle (Storm)" }
+music{ id = "loz3-06", description = "Princess Zelda's Rescue" }
+music{ id = "loz3-07", description = "Safety in the Sanctuary" }
+music{ id = "loz3-08", description = "Hyrule Field Main Theme" }
+music{ id = "loz3-09", description = "Kakariko Village" }
+music{ id = "loz3-10", description = "Guessing-Game House" }
+music{ id = "loz3-11", description = "Fortune Teller" }
+music{ id = "loz3-12", description = "Soldiers of Kakariko Village" }
+music{ id = "loz3-13", description = "Dank Dungeons" }
+music{ id = "loz3-14", description = "Lost Ancient Ruins" }
+music{ id = "loz3-15", description = "Anger of the Guardians" }
+music{ id = "loz3-16", description = "Great Victory!" }
+music{ id = "loz3-17a", description = "The Silly Pink Rabbit!" }
+music{ id = "loz3-17b", description = "The Silly Pink Rabbit! (Storm)" }
+music{ id = "loz3-18", description = "Forest of Mystery" }
+music{ id = "loz3-19", description = "Unsealing the Master Sword" }
+music{ id = "loz3-20", description = "Priest of the Dark Order" }
+music{ id = "loz3-21", description = "Dark Golden Land" }
+music{ id = "loz3-22a", description = "Black Mist" }
+music{ id = "loz3-22b", description = "Black Mist (Storm)" }
+music{ id = "loz3-23", description = "Dungeon of Shadows" }
+music{ id = "loz3-24", description = "Meeting the Maidens" }
+music{ id = "loz3-25", description = "The Goddess Appears" }
+music{ id = "loz3-26", description = "Release of Ganon" }
+music{ id = "loz3-27", description = "Ganon's Message" }
+music{ id = "loz3-28", description = "The Prince of Darkness" }
+music{ id = "loz3-29", description = "Power of the Gods" }
+music{ id = "loz3-30", description = "Epilogue ~ Beautiful Hyrule" }
+music{ id = "loz3-31", description = "Staff Roll" }
+music{ id = "loz3-b01", description = "Fierce Rainstorm" }
+music{ id = "loz3-b02", description = "Howling Wind" }
+music{ id = "loz3-b03", description = "Unused Sound" }
+music{ id = "loz3-s01", description = "Secret!" }
+music{ id = "loz3-s02", description = "Chest Appears" }
+music{ id = "loz3-s03", description = "Got a Key!" }
+music{ id = "loz3-s04", description = "Heart Piece" }
+music{ id = "loz3-s05", description = "Heart Container" }
+music{ id = "loz3-s06", description = "Treasure!" }
+music{ id = "loz3-s07", description = "Dimensional Shift" }
+music{ id = "loz3-s08a", description = "Ocarina Song" }
+music{ id = "loz3-s08b", description = "Ocarina Song (Short)" }
+music{ id = "loz3-s09", description = "Praying" }
+music{ id = "loz3-s10", description = "Quit Game" }
+music{ id = "loz3-s11", description = "Teleport" }
+
+sound{ id = "arrow_hit", description = "arrow_hit" }
+sound{ id = "boomerang", description = "boomerang" }
+sound{ id = "boss_hurt", description = "boss_hurt" }
+sound{ id = "boss_killed", description = "boss_killed" }
+sound{ id = "bow", description = "bow" }
+sound{ id = "bush", description = "bush" }
+sound{ id = "cane", description = "cane" }
+sound{ id = "chest_open", description = "chest_open" }
+sound{ id = "door_closed", description = "door_closed" }
+sound{ id = "door_open", description = "door_open" }
+sound{ id = "door_unlocked", description = "door_unlocked" }
+sound{ id = "enemy_hurt", description = "enemy_hurt" }
+sound{ id = "enemy_killed", description = "enemy_killed" }
+sound{ id = "explosion", description = "explosion" }
+sound{ id = "hero_falls", description = "hero_falls" }
+sound{ id = "hero_hurt", description = "hero_hurt" }
+sound{ id = "hero_lands", description = "hero_lands" }
+sound{ id = "hero_pushes", description = "hero_pushes" }
+sound{ id = "hookshot", description = "hookshot" }
+sound{ id = "jump", description = "jump" }
+sound{ id = "lift", description = "lift" }
+sound{ id = "message_end", description = "message_end" }
+sound{ id = "monster_hurt", description = "monster_hurt" }
+sound{ id = "picked_item", description = "picked_item" }
+sound{ id = "running", description = "running" }
+sound{ id = "running_obstacle", description = "running_obstacle" }
+sound{ id = "shield", description = "shield" }
+sound{ id = "splash", description = "splash" }
+sound{ id = "stairs_down_end", description = "stairs_down_end" }
+sound{ id = "stairs_down_start", description = "stairs_down_start" }
+sound{ id = "stairs_up_end", description = "stairs_up_end" }
+sound{ id = "stairs_up_start", description = "stairs_up_start" }
+sound{ id = "stone", description = "stone" }
+sound{ id = "switch", description = "switch" }
+sound{ id = "sword1", description = "sword1" }
+sound{ id = "sword_spin_attack_load", description = "sword_spin_attack_load" }
+sound{ id = "sword_spin_attack_release", description = "sword_spin_attack_release" }
+sound{ id = "sword_tapping", description = "sword_tapping" }
+sound{ id = "sword_tapping_weak_wall", description = "sword_tapping_weak_wall" }
+sound{ id = "throw", description = "throw" }
+sound{ id = "timer", description = "timer" }
+sound{ id = "timer_hurry", description = "timer_hurry" }
+sound{ id = "treasure", description = "treasure" }
+sound{ id = "victory", description = "victory" }
+sound{ id = "walk_on_grass", description = "walk_on_grass" }
+sound{ id = "walk_on_water", description = "walk_on_water" }
+sound{ id = "wrong", description = "wrong" }
+
+
+
+
+language{ id = "en", description = "English" }
+
+font{ id = "8_bit", description = "8_bit" }
+

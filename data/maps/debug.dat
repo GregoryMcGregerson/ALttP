@@ -1,0 +1,73 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 256,
+  height = 256,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "LightWorld",
+  music = "loz3-04b",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 88,
+  width = 176,
+  height = 128,
+  pattern = "1",
+}
+
+tile{
+  layer = 0,
+  x = 16,
+  y = 144,
+  width = 144,
+  height = 96,
+  pattern = "1",
+}
+
+tile{
+  layer = 0,
+  x = 40,
+  y = 64,
+  width = 176,
+  height = 16,
+  pattern = "2",
+}
+
+custom_entity{
+  name = "Room260",
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 256,
+  height = 256,
+  direction = 3,
+  sprite = "temp/Room260",
+}
+
+destination{
+  layer = 0,
+  x = 200,
+  y = 173,
+  direction = 1,
+}
+
+separator{
+  layer = 0,
+  x = 0,
+  y = 232,
+  width = 256,
+  height = 16,
+}
+
+teletransporter{
+  layer = 0,
+  x = 192,
+  y = 176,
+  width = 16,
+  height = 16,
+  destination_map = "Light/Overworld/2C",
+}
+

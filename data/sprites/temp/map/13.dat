@@ -1,0 +1,7 @@
+animation{
+  name = "stopped",
+  src_image = "temp/map/13.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 512, frame_height = 512, origin_x = 0, origin_y = 0 },
+  },
+}

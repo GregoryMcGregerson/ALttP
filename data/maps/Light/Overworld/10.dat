@@ -1,0 +1,42 @@
+properties{
+  x = 0,
+  y = 0,
+  width = 512,
+  height = 512,
+  min_layer = 0,
+  max_layer = 2,
+  tileset = "LightWorld",
+  music = "loz3-08",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = -16,
+  width = 512,
+  height = 16,
+  destination_map = "Light/Overworld/00",
+  destination = "_side",
+}
+
+custom_entity{
+  layer = 0,
+  x = 0,
+  y = 0,
+  width = 512,
+  height = 512,
+  direction = 3,
+  sprite = "temp/map/10",
+}
+
+teletransporter{
+  layer = 0,
+  x = 0,
+  y = 512,
+  width = 512,
+  height = 16,
+  transition = "scrolling",
+  destination_map = "Light/Overworld/18",
+  destination = "_side",
+}
+
